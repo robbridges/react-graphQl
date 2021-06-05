@@ -8,3 +8,4 @@ var app = express_1.default();
 app.listen(4000, function () {
     console.log('listening');
 });
+//# sourceMappingURL=index.js.map
